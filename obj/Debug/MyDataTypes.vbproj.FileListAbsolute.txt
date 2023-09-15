@@ -1,0 +1,11 @@
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.vbproj.AssemblyReference.cache
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.Resources.resources
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.vbproj.GenerateResource.cache
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\niico\source\repos\MyDataTypes\bin\Debug\MyDataTypes.exe.config
+C:\Users\niico\source\repos\MyDataTypes\bin\Debug\MyDataTypes.exe
+C:\Users\niico\source\repos\MyDataTypes\bin\Debug\MyDataTypes.pdb
+C:\Users\niico\source\repos\MyDataTypes\bin\Debug\MyDataTypes.xml
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.exe
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.xml
+C:\Users\niico\source\repos\MyDataTypes\obj\Debug\MyDataTypes.pdb
